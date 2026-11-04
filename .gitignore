@@ -1,0 +1,11 @@
+# Sensitive credentials & session files
+.env
+*.session
+*.session-journal
+
+# Python build artifacts
+__pycache__/
+*.pyc
+venv/
+.venv/
+.string_convert.py
